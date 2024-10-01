@@ -13,5 +13,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app on local
 ```
-streamlit run d:/Bangkit/Submission/dashboard/dashboard.py
+streamlit run d:/stupen/Dicoding/Submission/dashboard/dashboard.py
 ```
+8
