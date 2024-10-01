@@ -5,7 +5,8 @@
 ## Setup environment
 ```
 cd D:
-cd Bangkit
+cd stupen
+cd Dicoding
 cd Submission
 cd dashboard
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
