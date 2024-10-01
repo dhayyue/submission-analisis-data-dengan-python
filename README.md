@@ -15,4 +15,3 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run d:/stupen/Dicoding/Submission/dashboard/dashboard.py
 ```
-8
