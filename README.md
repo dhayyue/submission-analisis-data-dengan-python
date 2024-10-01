@@ -11,7 +11,7 @@ cd dashboard
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
-## Run steamlit app on local
+## Run streamlit app on local
 ```
 streamlit run d:/stupen/Dicoding/Submission/dashboard/dashboard.py
 ```
